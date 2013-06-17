@@ -1,0 +1,2 @@
+<br />
+<b>Warning</b>:  file_get_contents(D:/wwwphp/HeavenMVC/Examples/Hello/Tpl/Default/Hello/index) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in <b>D:\wwwphp\HeavenMVC\Heaven\Core\View.class.php</b> on line <b>128</b><br />

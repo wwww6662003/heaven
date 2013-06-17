@@ -1,0 +1,1 @@
+<div>ฮาสวอ๕ฮฌ<?php echo $this->tpl_vars['hello']; ?></div>
